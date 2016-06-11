@@ -1,0 +1,21 @@
+daph.kaplan, idan0610
+===============================================================================
+Daphna Kaplan, ID 204092613, daph.kaplan@mail.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@mail.huji.ac.il
+===============================================================================
+
+                           Project 6 - Assembler
+                           ---------------------
+  
+
+Submitted Files
+---------------
+README 			- This file.
+Assembler.py 	- The Assembler program
+Assembler 		- Shell script to run the assembler
+Makefile		- Makefile for the project
+
+Remarks
+-------
+We used 3 tables for dest, comp and jump to save all possible commands
+and their binary form.
